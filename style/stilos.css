@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+
+    background-color: rgb(48, 48, 48);
+
+}
+.box-form{
+    
+    padding-top: 300px;
+
+}
+
+
+.box-articulo{
+
+    background-color: white;
+    padding:  50px;
+    border-radius: 9px;
+
+}
