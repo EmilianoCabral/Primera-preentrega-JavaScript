@@ -1,3 +1,5 @@
+-Primera pre-entrega
+
 Variables
     Declaracion Accion
     let
@@ -9,3 +11,11 @@ Bucles
     While
     Do while
     For
+
+
+
+-Segunda pre-entrega
+
+Objetos de js
+Arrays
+Metodo de busqueda y filtrado sobre Arrays
