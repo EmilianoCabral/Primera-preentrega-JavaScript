@@ -19,3 +19,11 @@ Bucles
 Objetos de js
 Arrays
 Metodo de busqueda y filtrado sobre Arrays
+
+
+
+-tercer entrega
+
+implementacion con uso de json y storage.
+modificacion del dom y deteccion de eventos de usuario.
+
